@@ -1,0 +1,15 @@
+{
+  "name": "stashaway",
+  "version": "1.0.0",
+  "description": "Assignment Task",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node main.js"
+  },
+  "author": "Thilina Ekanayaka",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
